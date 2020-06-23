@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+.logo{
+    transform: scale(.55);
+}
+
+.linkLogos{
+    transform: scale(.4);
+    padding-top: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+.videoPreview{
+    display: flex;
+    justify-content: center;
+}
+
+.facebookLogo{
+    border-radius: 10px;
+}
