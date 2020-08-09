@@ -62,7 +62,7 @@ var data = [
     "instagramURL":"https://www.instagram.com/deceivingeveband",
     "facebookURL":"https://www.facebook.com/deceivingeveband",
     "bandcampURL":""
-}
+},
 
 //Half Hot
 {
@@ -78,7 +78,7 @@ var data = [
     "instagramURL":"https://www.instagram.com/halfhotmusic",
     "facebookURL":"https://www.facebook.com/Halfhotmusic",
     "bandcampURL":"https://halfhotmusic.bandcamp.com"
-}
+},
 
 //Hush Money
 {
@@ -94,7 +94,7 @@ var data = [
     "instagramURL":"https://www.instagram.com/halfhotmusic",
     "facebookURL":"https://www.facebook.com/Halfhotmusic",
     "bandcampURL":""
-}
+},
 
 //Lazer/Wulf
 {
@@ -190,7 +190,7 @@ var data = [
     "instagramURL":"https://www.instagram.com/trainfight",
     "facebookURL":"https://www.facebook.com/trainfightband",
     "bandcampURL":"https://trainfight.bandcamp.com"
-}
+},
 
 //Whores.
 {
