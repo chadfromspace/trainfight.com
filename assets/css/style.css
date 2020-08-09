@@ -2,6 +2,10 @@ body{
     background-color: black;
 }
 
+.facebookLogo{
+    border-radius: 10px;
+}
+
 h1{
     display: flex;
     justify-content: center;
@@ -14,16 +18,12 @@ h1{
 
 .linkLogos{
     transform: scale(.4);
-    padding-top: 40px;
-    display: flex;
+    padding-top: 20px;
     justify-content: center;
+    display: flex;
 }
 
 .videoPreview{
     display: flex;
     justify-content: center;
-}
-
-.facebookLogo{
-    border-radius: 10px;
 }
