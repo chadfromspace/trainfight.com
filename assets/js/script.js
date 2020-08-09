@@ -1,5 +1,8 @@
 $(document).ready(function(){
-    $(document).on("click",function(){
-            $("body").css("background-color","white");
+
+    const db = JSON.parse(db);
+
+    $(".btn").on("click",()=>{
+        console.log(db);
     })
 })

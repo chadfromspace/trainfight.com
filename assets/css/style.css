@@ -2,6 +2,16 @@ body{
     background-color: black;
 }
 
+button{
+
+}
+
+.btn{
+     display: flex;
+     margin-right: auto;
+     margin-left: auto;
+}
+
 .facebookLogo{
     border-radius: 10px;
 }
