@@ -2,10 +2,6 @@ body{
     background-color: black;
 }
 
-button{
-
-}
-
 .btn{
      display: flex;
      margin-right: auto;
@@ -36,4 +32,10 @@ h1{
 .videoPreview{
     display: flex;
     justify-content: center;
+}
+
+.videoDescription{
+    display: flex;
+    justify-content: center;
+    color: white;
 }
