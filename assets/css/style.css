@@ -18,6 +18,21 @@ h1{
     color: white;
 }
 
+.instagramLogoFollow{
+    padding-right: 150px;
+}
+
+.facebookLogoFollow{
+    padding-right: 150px;
+}
+
+.followThisArtist{
+    display: none;
+    justify-content: center;
+    padding-top: 55px;
+    color: white;
+}
+
 .logo{
     transform: scale(.55);
 }
@@ -27,6 +42,15 @@ h1{
     padding-top: 20px;
     justify-content: center;
     display: flex;
+}
+
+.linkLogosFollow{
+    transform: scale(.3);
+    margin: 20px;
+    justify-content: center;
+    display: none;
+    color: white;
+    height: 150px;
 }
 
 .videoPreview{
