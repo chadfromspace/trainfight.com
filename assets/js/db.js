@@ -2,15 +2,15 @@ var data = [
 
 //Bleach Garden
 {
-  "name":"Bleach Garden - Bliss (Official Video)",
-  "videoURL":"tNZgf58Kho8",
+  "name":"Bleach Garden - Rise Up",
+  "videoURL":"bH015-fU65I",
   "instagramURL":"https://www.instagram.com/bleachgarden94",
   "facebookURL":"https://www.facebook.com/BleachGarden94",
   "bandcampURL":"https://bleachgarden94.bandcamp.com"
 },
 {
-  "name":"Bleach Garden Live at WREK",
-  "videoURL":"7cxIlFOnlV8",
+  "name":"Bleach Garden - Just So Ya Know",
+  "videoURL":"TJqMb9J1qEs",
   "instagramURL":"https://www.instagram.com/bleachgarden94",
   "facebookURL":"https://www.facebook.com/BleachGarden94",
   "bandcampURL":"https://bleachgarden94.bandcamp.com"
@@ -121,8 +121,8 @@ var data = [
     "bandcampURL":""
 },
 {
-    "name":"Like Machines - Hear Freedom Ring",
-    "url":"ccgm3xL8",
+    "name":"Like Machines - Come And Get It",
+    "url":"Cy2ash01Z2o",
     "instagramURL":"https://www.instagram.com/likemachinesatl",
     "facebookURL":"https://www.facebook.com/likemachinesatl",
     "bandcampURL":""
