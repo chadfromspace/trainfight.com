@@ -90,14 +90,12 @@ body{
     background-image: url("../img/band.png");
     background-color: black;
     background-repeat: no-repeat;
-    min-width: 329px;
 }
 
 .navbar{
     display: flex;
     background-color: rgb(0,0,0,0);
     height: 75px;
-    min-width: 329px;
 }
 
 .nav-item{
