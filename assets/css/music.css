@@ -1,0 +1,166 @@
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+@media screen and (max-width: 965px) {
+    body{
+        background-size: 75%;
+        background-position: center 275%;
+    }
+    .dropdown{
+        display: flex;
+        justify-content: center;
+    }
+    .dropdown-menu{
+        background-color: rgba(0,0,0,80);
+    }
+    .igLogo{
+        border-radius: 10px;
+        max-height: 35px;
+    }
+    .fbLogo{
+        display: flex;
+        justify-content: center;
+        border-radius: 10px;
+        max-height: 35px;
+    }
+    .bcLogo{
+        display: flex;
+        justify-content: left;
+        border-radius: 10px;
+        max-height: 35px;
+    }
+    .bandLogo{
+        display: flex;
+        justify-content: left;
+        max-height: 50px;
+        padding-left: 10px;
+    }
+    .logos{
+        display: none;
+    }
+    .links{
+        display: none;
+    }
+}
+
+@media screen and (min-width: 965px) {
+    body{
+        background-size: 45%;
+        background-position: center 150%;
+    }
+    .dropdown{
+        display: none;
+    }
+    .igLogo{
+        margin-left: auto;
+        border-radius: 10px;
+        max-height: 35px;
+    }
+    .fbLogo{
+        border-radius: 10px;
+        max-height: 35px;
+    }
+    .bcLogo{
+        margin-right: auto;
+        border-radius: 10px;
+        max-height: 35px;
+    }
+    .bandLogo{
+        display: flex;
+        justify-content: left;
+        max-height: 50px;
+        padding-left: 10px;
+    }
+    .logos{
+        display: flex;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    .links{
+        display: flex;
+    }
+}
+
+body{
+    background-image: url("../img/band.png");
+    background-color: black;
+    background-repeat: no-repeat;
+    min-width: 329px;
+}
+
+.navbar{
+    display: flex;
+    background-color: rgb(0,0,0,0);
+    height: 75px;
+    min-width: 329px;
+}
+
+.nav-item{
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: 25px;
+}
+
+.nav-item:hover{
+    color: #fcfcfc;
+}
+
+.menu{
+    height: 75px;
+}
+
+.dropdown-toggle{
+    padding-right: 10px;
+}
+
+.dropdown-toggle::after{
+    content: none;
+}
+
+.dropdown-item {
+    display: flex;
+    justify-content: center;
+    color: #fcfcfc;
+    background-color: rgb(0,0,0,0);
+}
+
+.goodbyeforever{
+    display: flex;
+    justify-content: center;
+    max-width: 60%;
+    margin: auto;
+}
+
+.crawl{
+    display: flex;
+    justify-content: center;
+    max-width: 60%;
+    margin: auto;
+}
+
+.music{
+    display: flex;
+    padding-top: 40px;
+}
+
+.crawlContainer{
+    text-align: center;
+}
+
+.goodbyeforeverContainer{
+    text-align: center;
+}
+
+.albumTitle{
+    padding-top: 20px;
+    color: #fcfcfc;
+}
+
+.albumDescription{
+    color: #fcfcfc;
+}
