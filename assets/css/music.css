@@ -59,7 +59,8 @@ a:hover{
         max-height: 35px;
     }
     .fbLogo{
-        border-radius: 10px;
+        display: flex;
+        justify-content: center;
         max-height: 35px;
     }
     .bcLogo{

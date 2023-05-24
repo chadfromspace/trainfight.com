@@ -56,6 +56,8 @@ a:hover{
         max-height: 35px;
     }
     .fbLogo{
+        display: flex;
+        justify-content: center;
         max-height: 35px;
     }
     .bcLogo{

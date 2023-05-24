@@ -67,6 +67,7 @@ a:hover{
     }
     .fbLogo{
         display: flex;
+        justify-content: center;
         max-height: 35px;
     }
     .bcLogo{
@@ -80,6 +81,7 @@ a:hover{
         padding-left: 10px;
     }
     .logos{
+        max-height: 35px;
         display: flex;
         margin-right: auto;
         margin-left: auto;
