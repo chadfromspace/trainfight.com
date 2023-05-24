@@ -110,6 +110,7 @@ body{
 
 .menu{
     height: 75px;
+    padding-right: 7px;
 }
 
 .dropdown-toggle{

@@ -7,6 +7,12 @@ a:hover{
 }
 
 @media screen and (max-width: 965px) {
+    .merchContainer{
+        text-align: center;
+        width: 250px;
+        margin: auto;
+        padding-top: 20px;
+    }
     body{
         background-size: 100%;
     }
@@ -48,6 +54,12 @@ a:hover{
 }
 
 @media screen and (min-width: 965px) {
+    .merchContainer{
+        text-align: center;
+        width: 100%;
+        margin: auto;
+        padding-top: 20px;
+    }
     body{
         background-size: 1200px;
     }
@@ -108,10 +120,12 @@ body{
 
 .menu{
     height: 75px;
+    padding-right: 7px;
 }
 
 .dropdown-toggle{
-    padding-right: 10px;
+    display: flex;
+    justify-content: right;
 }
 
 .dropdown-toggle::after{
@@ -129,13 +143,6 @@ body{
     color: #fcfcfc;
     display: flex;
     justify-content: center;
-    padding-top: 20px;
-}
-
-.merchContainer{
-    text-align: center;
-    width: auto;
-    margin: auto;
     padding-top: 20px;
 }
 
@@ -159,5 +166,5 @@ body{
 }
 
 .row{
-    width: none;
+    display: flex;
 }
