@@ -18,19 +18,16 @@ a:hover{
         background-color: rgba(0,0,0,80);
     }
     .igLogo{
-        border-radius: 10px;
         max-height: 35px;
     }
     .fbLogo{
         display: flex;
         justify-content: center;
-        border-radius: 10px;
         max-height: 35px;
     }
     .bcLogo{
         display: flex;
         justify-content: left;
-        border-radius: 10px;
         max-height: 35px;
     }
     .bandLogo{
